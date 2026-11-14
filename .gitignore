@@ -1,0 +1,12 @@
+# сборочные артефакты
+dist/
+build/
+*.spec
+
+# кэши
+__pycache__/
+
+# локальные журналы снега
+snow_err.txt
+snow_err2.txt
+capture_gif.py
